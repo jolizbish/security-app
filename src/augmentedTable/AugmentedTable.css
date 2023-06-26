@@ -1,0 +1,31 @@
+.date-cell {
+    width: 100px
+}
+
+.description-cell {
+    display: block;
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.data-classes-cell {
+    width: 300px;
+}
+
+.column-label {
+    font-weight: bold;
+}
+
+.response-table {
+    width: 90%;
+    margin: auto;
+}
+
+.search-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 10%;
+}
